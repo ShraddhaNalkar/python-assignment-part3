@@ -1,0 +1,10 @@
+Connection failed. Please check your internet.
+Connection failed during POST request.
+Connection failed. Please check your internet.
+Connection failed during POST request.
+[2026-04-05 19:10:44] ERROR in fetch_products: ConnectionError — ('Connection aborted.', HTTPException('Failed to fetch'))
+[2026-04-05 19:10:45] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
+[2026-04-05 19:19:01] ERROR in fetch_products: ConnectionError — ('Connection aborted.', HTTPException('Failed to fetch'))
+[2026-04-05 19:19:01] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
+[2026-04-05 19:27:24] ERROR in fetch_products: ConnectionError — ('Connection aborted.', HTTPException('Failed to fetch'))
+[2026-04-05 19:27:24] ERROR in lookup_product: HTTPError — 404 Not Found for product ID 999
